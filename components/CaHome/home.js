@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React,{ useState } from 'react'
-import Header from "../Header/header"
+import Header from "../Header/Header"
 import HomeButton from "../HomeButton/HomeButton"
 import HeaderLinks from "../HeaderLinks/HeaderLinks"
 import Footer from "../Footer/Footer"
